@@ -7,9 +7,9 @@ please treat your APP ID and API HASH with care, and ensure that they do not fal
 
 **Telegram said**: __It is forbidden to pass this value to third parties__.
 
-- can be found on [Telegram](https://telegram.dog/useTGXBot)
+- can be found on [Telegram](https://telegram.dog/saravanakrish)
 
-🙄 [@useTGxBot](https://telegram.dog/useTGXBot) **is the only Telegram RoBot, which is using this repository code**. 🙄😬
+🙄 [@saravanakrish](https://telegram.dog/saravanakrish) **is the only Telegram RoBot, which is using this repository code**. 🙄😬
 __For any other bots, ask the respective bot developers, for the source code, before sending **any private credentials*" to the bots__.
 
 ## installing
@@ -53,25 +53,24 @@ pip install -r requirements.txt
 python3 bot.py
 ```
 
-## [@SpEcHlDe](https://telegram.dog/ThankTelegram)
+## [@SARAVANAKRISH](https://telegram.dog/SARAVANAKRISH)
 
 - Only `TG_BOT_TOKEN` environment variables is mandatory.
 - The Telegram RoBot should work without setting the non-mandatory variables.
-- Please report any issues to the support group: [@SpEcHlDe](https://t.me/joinchat/AHAujEjG4FBO-TH-NrVVbg)
 
+
+## Find me here
+
+[![telegram badge](https://img.shields.io/badge/SARAVANAKRISH-30302f?style=flat&logo=telegram)](https://t.me/SARAVANAKRISH)
+
+## Credits, and Thanks to
+
+[![telegram badge](https://img.shields.io/badge/SpEcHIDe-30302f?style=flat&logo=telegram)](https://t.me/SpEcHIDe)
+[![telegram badge](https://img.shields.io/badge/IMVETRI-30302f?style=flat&logo=telegram)](https://t.me/IMVETRI)
 
 ## learning
 
-check out the [helper_funcs](https://github.com/SpEcHiDe/MyTelegramOrgRoBot/tree/master/helper_funcs) directory, to see how my.telegram.org is scrapped.
+check out the [helper_funcs](https://github.com/imsaravanakrish/TelegramOrgRoBot/tree/master/helper_funcs) directory, to see how my.telegram.org is scrapped.
 
 ## LICENSE
-[AGPLv3](https://github.com/SpEcHiDe/MyTelegramOrgRoBot/tree/master/LICENSE)
-
-## credits
-
-- Libraries Used:
-  - [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)
-  - [requests](https://github.com/psf/requests)
-  - [beautifulsoup4](https://pypi.org/project/beautifulsoup4)
-- Thanks to:
-  - [me](https://tx.me/SpEcHlDe)
+[AGPLv3](https://github.com/imsaravanakrish/TelegramOrgRoBot/tree/master/LICENSE)
